@@ -1,0 +1,33 @@
+[
+   {
+     "tag": "HMI_GVL.M.Rob2.INITIALIZED",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/INITIALIZED",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.INITIALIZED"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.RUNNING",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/RUNNING",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.RUNNING"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.WSVIOLATION",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/WSVIOLATIO",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.WSVIOLATION"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.PAUSED",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/PAUSED",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.PAUSED"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.FINISHEDPARTNUM",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/FINISHEDPARTNUM",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.FINISHEDPARTNUM"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.SPEEDPERCENTAGE",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Status/SPEEDPERCENTAGE",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.SPEEDPERCENTAGE"
+   }
+ ]
+ 

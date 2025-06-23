@@ -1,0 +1,23 @@
+[
+   {
+     "tag": "HMI_GVL.M.Rob2.ROBOTPOS.X",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Position/X",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.ROBOTPOS.X"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.ROBOTPOS.Y",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Position/Y",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.ROBOTPOS.Y"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.ROBOTPOS.Z",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Position/Z",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.ROBOTPOS.Z"
+   },
+   {
+     "tag": "HMI_GVL.M.Rob2.ROBOTPOS.W",
+     "topic": "h/m/conestoga/recycling/team3/line/sorter/R3/Robot_Position/W",
+     "nodeId": "ns=1;s=HMI_GVL.M.Rob2.ROBOTPOS.W"
+   }
+ ]
+ 
